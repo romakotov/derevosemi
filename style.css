@@ -44,10 +44,12 @@ img{
 nav,a{
     color: black;
     border-radius: 10px;
-    margin:10px;
+    margin:50px;
     padding: 10px;
 }
 a{
      background-color:rgb(168, 185, 241);
      text-decoration: none;
 }
+p {text-align: center;}
+
