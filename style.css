@@ -44,6 +44,29 @@ img{
 nav,a{
     color: black;
     border-radius: 10px;
+    margin:10px;
+    padding: 10px;
+    text-align: center;
+}
+a{
+     background-color:rgb(168, 185, 241);
+     text-decoration: none;
+}
+main p {text-align: center;}
+
+
+
+footer{
+    background-color:rgb(116, 189, 223);
+}
+img{
+    height:650x ;
+    width:800px;
+    
+}
+nav,a{
+    color: black;
+    border-radius: 10px;
     margin:50px;
     padding: 10px;
     text-align: center;
